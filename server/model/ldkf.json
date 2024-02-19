@@ -1,0 +1,31 @@
+{
+  "name": "sachi",
+  "email": "sachisdf.sd.com",
+  "password": "sldkfj",
+  "dnsrecord": [
+    {
+      "_id": "34kflskdfjlskjflksdjff",
+      "dnstype": "A",
+      "dnsName ": "sldkfj",
+      "dnsvalue": "sdlfkj",
+      "dnsTTL ": "Sldkfj",
+      "dnsStatus": "sdlkjfl"
+    },
+    {
+      "_id": "34kflskdfjlskjflksdjff",
+      "dnstype": "A",
+      "dnsName ": "sldkfj",
+      "dnsvalue": "sdlfkj",
+      "dnsTTL ": "Sldkfj",
+      "dnsStatus": "sdlkjfl"
+    },
+    {
+      "_id": "34kflskdfjlskjflksdjff",
+      "dnstype": "A",
+      "dnsName ": "sldkfj",
+      "dnsvalue": "sdlfkj",
+      "dnsTTL ": "Sldkfj",
+      "dnsStatus": "sdlkjfl"
+    }
+  ]
+}

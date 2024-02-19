@@ -1,0 +1,38 @@
+h1 {
+  color: black;
+}
+
+.add-dnsrecord {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  text-align: center;
+}
+.plusbutton {
+  width: fit-content;
+  background-color: transparent;
+  border: none;
+}
+
+.button-primary {
+  color: white;
+  padding: 5px 10px 5px 10px;
+  font-size: smaller;
+  width: fit-content;
+  background-color: rgb(96, 91, 255);
+  border: none;
+  border-radius: 5px;
+}
+
+.add-dnsrecord-modal {
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: whitesmoke;
+  width: 50%;
+}
+
+form {
+  background-color: whitesmoke;
+}
